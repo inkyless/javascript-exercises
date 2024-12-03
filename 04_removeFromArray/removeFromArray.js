@@ -7,7 +7,6 @@ const removeFromArray = function(array,...numbers) {
             result.push(eles)
         }   
         }
-        
     return result
 
 };
